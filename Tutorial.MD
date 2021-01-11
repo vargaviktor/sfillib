@@ -30,6 +30,8 @@ You need clone and build the library:
 
 Sample 3dsx available from [here](https://github.com/vargaviktor/sfillib/tree/master/sample) for test runs.
 
+![Screenshot of sample](https://github.com/vargaviktor/sfillib/blob/master/sfillib_sample.png)
+
 The code first starts with the standard includes, and also includes the pictures converted to .h with BIN2S.
 
 ```c
