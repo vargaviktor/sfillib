@@ -28,7 +28,7 @@ You need clone and build the library:
 
 ## Examining the sample file
 
-Sample 3dsx available from [here](https://github.com/vargaviktor/sf2dlib/tree/master/sample) for test runs.
+Sample 3dsx available from [here](https://github.com/vargaviktor/sfillib/tree/master/sample) for test runs.
 
 The code first starts with the standard includes, and also includes the pictures converted to .h with BIN2S.
 
